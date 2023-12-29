@@ -1,0 +1,12 @@
+#
+tienda/applications/home/migrations/*
+#
+tienda/applications/users/migrations/*
+#
+tienda/applications/producto/migrations/*
+#
+tienda/applications/venta/migrations/*
+#
+__pycache__/
+#
+*.pyc
